@@ -120,7 +120,7 @@ Me chamo Danilo, sou apaixonado por tecnologia, café, música, séries, livros 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160" 
+    height="163" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=dnsfer&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
