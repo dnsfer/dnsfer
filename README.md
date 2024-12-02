@@ -128,7 +128,7 @@ Me chamo Danilo, sou apaixonado por tecnologia, café, música, séries, livros 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="190" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnsfer&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
